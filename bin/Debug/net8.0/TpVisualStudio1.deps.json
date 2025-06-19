@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TpVisualStudio1/1.0.0": {
+        "runtime": {
+          "TpVisualStudio1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TpVisualStudio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

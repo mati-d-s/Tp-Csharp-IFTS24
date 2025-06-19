@@ -1,0 +1,14 @@
+/home/goste/Escritorio/TpVisualStudio1/Operadores/bin/Debug/net8.0/Operadores
+/home/goste/Escritorio/TpVisualStudio1/Operadores/bin/Debug/net8.0/Operadores.deps.json
+/home/goste/Escritorio/TpVisualStudio1/Operadores/bin/Debug/net8.0/Operadores.runtimeconfig.json
+/home/goste/Escritorio/TpVisualStudio1/Operadores/bin/Debug/net8.0/Operadores.dll
+/home/goste/Escritorio/TpVisualStudio1/Operadores/bin/Debug/net8.0/Operadores.pdb
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/Operadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/Operadores.AssemblyInfoInputs.cache
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/Operadores.AssemblyInfo.cs
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/Operadores.csproj.CoreCompileInputs.cache
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/Operadores.dll
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/refint/Operadores.dll
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/Operadores.pdb
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/Operadores.genruntimeconfig.cache
+/home/goste/Escritorio/TpVisualStudio1/Operadores/obj/Debug/net8.0/ref/Operadores.dll

@@ -1,0 +1,14 @@
+/home/goste/Escritorio/TpVisualStudio1/bin/Debug/net8.0/TpVisualStudio1
+/home/goste/Escritorio/TpVisualStudio1/bin/Debug/net8.0/TpVisualStudio1.deps.json
+/home/goste/Escritorio/TpVisualStudio1/bin/Debug/net8.0/TpVisualStudio1.runtimeconfig.json
+/home/goste/Escritorio/TpVisualStudio1/bin/Debug/net8.0/TpVisualStudio1.dll
+/home/goste/Escritorio/TpVisualStudio1/bin/Debug/net8.0/TpVisualStudio1.pdb
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/TpVisualStudio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/TpVisualStudio1.AssemblyInfoInputs.cache
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/TpVisualStudio1.AssemblyInfo.cs
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/TpVisualStudio1.csproj.CoreCompileInputs.cache
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/TpVisualStudio1.dll
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/refint/TpVisualStudio1.dll
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/TpVisualStudio1.pdb
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/TpVisualStudio1.genruntimeconfig.cache
+/home/goste/Escritorio/TpVisualStudio1/obj/Debug/net8.0/ref/TpVisualStudio1.dll

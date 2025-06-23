@@ -55,6 +55,37 @@ namespace Operadores
             Var1 = 20; //Asigno otros valores a las variables
             Var2 = 30;
 
+            Console.WriteLine("Var1 = {0}", Var1);
+            Console.WriteLine("Var2 = {0}", Var2);
+            Console.WriteLine();
+
+            Console.WriteLine("Var1 == Var2 = {0}", Var1 == Var2);
+            Console.WriteLine("Var1 != Var2 = {0}", Var1 != Var2);
+            Console.WriteLine("Var1 <  Var2 = {0}", Var1 <  Var2);
+            Console.WriteLine("Var1 >  Var2 = {0}", Var1 >  Var2);
+            Console.WriteLine("Var1 <= Var2 = {0}", Var1 <= Var2);
+            Console.WriteLine("Var1 >= Var2 = {0}", Var1 >= Var2);
+
+            Console.WriteLine("Pulse una tecla para continuar...");
+            Console.ReadKey();
+            Console.Clear();
+  
+            Console.WriteLine("Operadores lógicos");
+            Console.WriteLine();
+
+            Console.WriteLine("Var3 = {0}", Var3);
+            Console.WriteLine("Var4 = {0}", Var4);
+            Console.WriteLine();
+
+            Console.WriteLine("Var3 && Var4 = {0}", Var3 && Var4);     // and lógico
+            Console.WriteLine("Var3 && Var4 = {0}", Var3 && Var4);     // short circuit
+
+            Console.WriteLine();
+
+            Console.WriteLine("Var3 || Var4 = {0}", Var3 || Var4);     // or lógico
+            Console.WriteLine("Var3 || Var4 = {0}", Var3 || Var4);     // short circuit
+            Console.WriteLine();
+
 
         }
     }
